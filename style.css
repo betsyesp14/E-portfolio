@@ -904,4 +904,26 @@ footer section
     .btn__menu {
         display: block;
     }
+
+    .footer__logo {
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    .footer__logo__title {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .social__links {
+        display: flex;
+        align-items: flex-end; 
+    }
+
+    .column__links {
+            display: flex;
+            flex-wrap: wrap;
+    }
 }
